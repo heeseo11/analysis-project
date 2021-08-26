@@ -1,4 +1,4 @@
-# network-analysis
+# analysis-project
 
 #### 1. 군대 식단 데이터 분석
   
@@ -8,6 +8,6 @@
 
   - [만개의 레시피 크롤링 데이터 활용](https://www.10000recipe.com)
 
-### 3. 화장품 성분 데이터 분석
+#### 3. 화장품 성분 데이터 분석
   
   - [올리브영 성분 데이터 활용](https://www.oliveyoung.co.kr)
