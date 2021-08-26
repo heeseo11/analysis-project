@@ -9,5 +9,5 @@
   - [만개의 레시피 크롤링 데이터 활용](https://www.10000recipe.com)
 
 #### 3. 화장품  데이터 분석
-  
-  - [올리브영 성분 데이터 활용](https://www.oliveyoung.co.kr)
+
+  - [화장품 데이터 분석](https://github.com/heeseo11/analysis-project/blob/main/%ED%99%94%EC%9E%A5%ED%92%88%EA%B4%80%EB%A0%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/README.md)
