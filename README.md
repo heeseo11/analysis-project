@@ -6,7 +6,7 @@
 
 #### 2. 레시피 재료 데이터 분석 
 
-  - [만개의 레시피 크롤링 데이터 활용](https://www.10000recipe.com)
+  - [만개의 레시피 크롤링 데이터 활용](https://github.com/heeseo11/analysis-project/blob/main/%EB%A0%88%EC%8B%9C%ED%94%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/README.md)
 
 #### 3. 화장품  데이터 분석
 
