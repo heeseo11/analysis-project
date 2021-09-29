@@ -3,6 +3,7 @@ import os
 import random
 import pandas as pd
 import json
+import xml.etree.cElementTree as e
 
 path = '/content/drive/MyDrive/객체탐지/json_label'
 file_list = os.listdir(path)
@@ -33,3 +34,5 @@ for i in range(len(image_file_list_py)):
   image_file_list_py2 = image_file_list_py[i].split(".")[0]
 
   print(image_file_list_py[i])
+  
+  a.write("/content/drive/MyDrive/json/" + image_file_list_py2 + ".xml")
