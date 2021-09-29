@@ -1,9 +1,8 @@
 # analysis-project
 
 #### 1. 군대 식단 데이터 분석
-  
-  - [육군 훈련소 병영 표준 식단 정보 데이터 월별](https://opendata.mnd.go.kr/openinf/openapiview2.jsp?infId=OA-9547)
-
+  - [육군 훈련소 병영 표준 식단 정보 데이터 월별](https://github.com/heeseo11/analysis-project/blob/main/%EA%B5%B0%EB%8C%80%20%EC%8B%9D%EB%8B%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/README.md)
+ 
 #### 2. 레시피 재료 데이터 분석 
 
   - [만개의 레시피 크롤링 데이터 활용](https://github.com/heeseo11/analysis-project/blob/main/%EB%A0%88%EC%8B%9C%ED%94%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/README.md)
