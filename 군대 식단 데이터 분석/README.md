@@ -20,8 +20,10 @@
 - 식단 메뉴 언급량
   - bar 차트
 
+![image](https://user-images.githubusercontent.com/61724682/135229635-d80b74d3-7bee-40af-8b1f-90d29dca7208.png)
 
   - 워드클라우드
+![image](https://user-images.githubusercontent.com/61724682/135230263-d7b3da46-d6a0-4cb0-b8a8-bee3cedd527b.png)
 
 
 - 장바구니 분석
